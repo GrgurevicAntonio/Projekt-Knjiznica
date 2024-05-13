@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Korisnik\\source\\repos\\Knjiznica\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E0575093-BE6C-41CC-8595-4D661883208B}|Knjiznica.csproj|c:\\users\\korisnik\\source\\repos\\knjiznica\\model\\podatkovnikontekst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0575093-BE6C-41CC-8595-4D661883208B}|Knjiznica.csproj|solutionrelative:model\\podatkovnikontekst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0575093-BE6C-41CC-8595-4D661883208B}|Knjiznica.csproj|c:\\users\\korisnik\\source\\repos\\knjiznica\\model\\posudba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0575093-BE6C-41CC-8595-4D661883208B}|Knjiznica.csproj|solutionrelative:model\\posudba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0575093-BE6C-41CC-8595-4D661883208B}|Knjiznica.csproj|c:\\users\\korisnik\\source\\repos\\knjiznica\\model\\knjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0575093-BE6C-41CC-8595-4D661883208B}|Knjiznica.csproj|solutionrelative:model\\knjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0575093-BE6C-41CC-8595-4D661883208B}|Knjiznica.csproj|c:\\users\\korisnik\\source\\repos\\knjiznica\\model\\ucenik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0575093-BE6C-41CC-8595-4D661883208B}|Knjiznica.csproj|solutionrelative:model\\ucenik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E0575093-BE6C-41CC-8595-4D661883208B}|Knjiznica.csproj|c:\\users\\korisnik\\source\\repos\\knjiznica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E0575093-BE6C-41CC-8595-4D661883208B}|Knjiznica.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +35,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PodatkovniKontekst.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Knjiznica\\Model\\PodatkovniKontekst.cs",
+              "RelativeDocumentMoniker": "Model\\PodatkovniKontekst.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Knjiznica\\Model\\PodatkovniKontekst.cs",
+              "RelativeToolTip": "Model\\PodatkovniKontekst.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:07:50.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Posudba.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Knjiznica\\Model\\Posudba.cs",
+              "RelativeDocumentMoniker": "Model\\Posudba.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Knjiznica\\Model\\Posudba.cs",
+              "RelativeToolTip": "Model\\Posudba.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCMAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:46:02.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Knjiga.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Knjiznica\\Model\\Knjiga.cs",
+              "RelativeDocumentMoniker": "Model\\Knjiga.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Knjiznica\\Model\\Knjiga.cs",
+              "RelativeToolTip": "Model\\Knjiga.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:37:41.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ucenik.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Knjiznica\\Model\\Ucenik.cs",
+              "RelativeDocumentMoniker": "Model\\Ucenik.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Knjiznica\\Model\\Ucenik.cs",
+              "RelativeToolTip": "Model\\Ucenik.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:12:59.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Knjiznica\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -27,10 +95,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T14:04:01.78Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
